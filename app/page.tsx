@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ExploreBtn from "./components/ExploreBtn";
 import EventCard from "./components/EventCard";
 
